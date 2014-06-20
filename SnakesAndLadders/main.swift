@@ -71,6 +71,7 @@ while (currentSquare < 25) {
     
     if currentSquare >= 25 {
         
+        println("ACHIEVIED GOAL!")
         break
     }
     
